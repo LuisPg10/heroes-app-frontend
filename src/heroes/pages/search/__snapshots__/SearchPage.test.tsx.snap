@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SearchPage > should match to snapshot 1`] = `
+<div>
+  <div>
+    CustomJumbotron
+  </div>
+  <div>
+    CustomBreadcrumbs
+  </div>
+  <div>
+    Cargando...
+  </div>
+  <div>
+    SearchControls
+  </div>
+  <div
+    data-testid="hero-grid"
+  />
+</div>
+`;

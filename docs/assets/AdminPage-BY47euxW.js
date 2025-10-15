@@ -1,0 +1,1 @@
+import{S as e,T as t}from"./index-BUEfKfqH.js";var n=t(e());const r=()=>(0,n.jsx)(`div`,{children:`AdminPage`});var i=r;export{r as AdminPage,i as default};

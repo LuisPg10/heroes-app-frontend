@@ -1,0 +1,5 @@
+@reference '../../../index.css';
+
+.navigation-menu-link[data-active] {
+  @apply bg-slate-200;
+}
